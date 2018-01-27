@@ -1,27 +1,27 @@
 # openSUSE
 
-## Lesson Content
+## Treść lekcji
 
-<b>Overview</b>
-openSUSE Linux is created by the openSUSE Project. A community that promotes the use of Linux everywhere, working together in an open, transparent and friendly manner as part of the worldwide Free and Open Source Software community. openSUSE is the second oldest still running Linux Distributions and shares the base system with SUSE's award-winning SUSE Linux Enterprise products.
+<b>Informacje</b>
+Linux openSUSE tworzony jest przez projekt openSUSE. Społeczność, która promuje korzystanie z Linuksa wszędzie, współpracując w sposób otwarty, przejrzysty i przyjazny, jako część światowej społeczności wolnego i otwartego oprogramowania. OpenSUSE jest drugim najstarszym, nadal działającym systemem Linux. OpenSUSE współdzieli system bazowy z wielokrotnie nagradzanym SUSE Linux Enterprise.
 
-<b>Package Management</b>
-Uses RPM package manager.
+<b>Zarządzanie pakietami</b>
+Używa menedżera pakietów RPM.
 
-<b>Configurability</b>
-openSUSE is a great choice for a new Linux user. It offers an easy to use graphical installer/administration application (<a href="http://yast.github.io/">YaST</a>) and a tiday base system, easy to tinker with. openSUSE includes everything you need to enjoy the Internet worry free of viruses/spy-ware and to live out your creativity, be it with your photos, videos, music or code.
+<b>Konfigurowalność</b>
+OpenSUSE jest doskonałym wyborem dla nowego użytkownika Linuksa. Oferuje łatwą w użyciu graficzną aplikację do instalacji/administracji (<a href="http://yast.github.io/">YaST</a>) oraz uporządkowany system bazowy, prosty w obsłudze. OpenSUSE zawiera wszystko, czego potrzebujesz, aby cieszyć się Internetem bez wirusów/niechcianego oprogramowania i zajmować się zdjęciami, filmami, muzyką czy programowaniem.
 
-<b>Uses</b>
-openSUSE Leap is fully capable of being used on a desktop PC and laptop.
+<b>Zastosowanie</b>
+OpenSUSE jest w pełni przystosowany do pracy na komputerach stacjonarnych i laptopach.
 
-## Exercise
+## Ćwiczenie
 
-If you're interested in having openSUSE as your operating system, head over to the download page and give it a try: <a href='https://software.opensuse.org/'>software.opensuse.org</a>
+Jeśli jesteś zainteresowany posiadaniem OpenSUSE jako systemu operacyjnego, przejdź do sekcji instalacji i wypróbuj go: <a href='https://software.opensuse.org/'>software.opensuse.org</a>
 
-## Quiz Questions
+## Quiz pytanie
 
-What is the name of openSUSE's Administration/Installation Tool?
+Jak sie nazywa narzędzie do instalacji/administracji w openSUSE?
 
-## Quiz Answer
+## Quiz odpowiedź
 
 yast
